@@ -9,8 +9,7 @@ __pycache__/
 env/
 venv/
 
-# Model weights & artifacts
-models/*.pth
+# Artifacts
 artifacts/
 
 # Environment
