@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# Model weights & artifacts
+models/*.pth
+artifacts/
+
+# Environment
+.env
+*.env
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# Docker
+*.log
+
+# Weights
+models/*.pth
+models/*.pt
+models/*.onnx
+models/*.h5
