@@ -22,3 +22,9 @@ artifacts/
 
 # Docker
 *.log
+
+# Weights
+models/*.pth
+models/*.pt
+models/*.onnx
+models/*.h5
